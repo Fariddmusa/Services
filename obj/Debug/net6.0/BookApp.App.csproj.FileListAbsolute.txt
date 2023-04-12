@@ -1,0 +1,5 @@
+C:\Users\ferid\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferid\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.AssemblyInfoInputs.cache
+C:\Users\ferid\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.AssemblyInfo.cs
+C:\Users\ferid\source\repos\BookApp.App\BookApp.App\obj\Debug\net6.0\BookApp.App.csproj.CoreCompileInputs.cache
